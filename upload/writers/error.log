@@ -1,0 +1,4 @@
+[Fri Nov 08 10:54:01.817801 2024] [core:alert] [pid 1502182:tid 1502182] [client 81.214.104.171:8258] /home/flex/public_html/.htaccess: Either all Options must start with + or -, or no Option may.
+[Fri Nov 08 10:54:01.817961 2024] [core:alert] [pid 1502182:tid 1502182] [client 81.214.104.171:8258] /home/flex/public_html/.htaccess: Either all Options must start with + or -, or no Option may.
+[Fri Nov 08 10:54:02.210841 2024] [core:alert] [pid 1502183:tid 1502183] [client 81.214.104.171:7133] /home/flex/public_html/.htaccess: Either all Options must start with + or -, or no Option may., referer: http://api.flexelement.net/
+[Fri Nov 08 10:54:02.211025 2024] [core:alert] [pid 1502183:tid 1502183] [client 81.214.104.171:7133] /home/flex/public_html/.htaccess: Either all Options must start with + or -, or no Option may., referer: http://api.flexelement.net/
