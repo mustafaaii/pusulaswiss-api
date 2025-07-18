@@ -1,9 +1,9 @@
 const mysql = require('mysql2/promise');
 const dbConfig = {
-    host: '46.202.134.193',
-    user: 'pusula_root',
-    password: '5302654Mm.',
-    database: 'pusula_swiss'
+    host: '',
+    user: '',
+    password: '.',
+    database: ''
 };
 
 async function getconnect() {
